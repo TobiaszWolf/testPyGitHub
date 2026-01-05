@@ -1,0 +1,10 @@
+---
+title: "PĂ©lda blog"
+description: "Ez egy pĂ©lda blog, hogy lĂˇssuk, hogy kĂ©ne kinĂ©znie a listĂˇzĂˇsnak."
+date: 2026-01-01
+author: "Farkas TĂłbiĂˇs"
+---
+
+# Web Blog
+
+Almaaaaaaaaaaaaa
